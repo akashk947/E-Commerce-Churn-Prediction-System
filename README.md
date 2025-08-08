@@ -29,7 +29,6 @@ This app uses a trained **Random Forest** or **XGBoost** model to predict custom
 - Complaints & customer satisfaction
 - And more...
 
-Categorical features are encoded using **LabelEncoder** and saved as `label_encoders.pkl`.
 
 ---
 
