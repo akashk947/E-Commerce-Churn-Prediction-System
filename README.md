@@ -1,4 +1,4 @@
-# 🛒 Customer Churn Prediction App
+# 🛒 E-Commerce Customer Churn Prediction App
 
 A machine learning web application that predicts whether a customer is likely to **churn** (stop using the service) based on their behavior and profile.
 
