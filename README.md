@@ -1,9 +1,4 @@
-Here's your **complete `README.md` content** — copy and paste it directly into your GitHub repository:
-
----
-
-```markdown
-# 🛒 E- Commerce Customer Churn Prediction Application
+# 🛒 Customer Churn Prediction App
 
 A machine learning web application that predicts whether a customer is likely to **churn** (stop using the service) based on their behavior and profile.
 
@@ -18,7 +13,7 @@ Built using:
 
 ## 🚀 Live Demo
 
-👉  [Try the App on Hugging Face Spaces](https://huggingface.co/spaces/akashk947/eCommerceChurnPredictionSystem)  
+👉 [Try the App on Hugging Face Spaces](https://huggingface.co/spaces/akashk947/eCommerceChurnPredictionSystem)  
 
 ---
 
@@ -34,15 +29,9 @@ This app uses a trained **Random Forest** or **XGBoost** model to predict custom
 - Complaints & customer satisfaction
 - And more...
 
+Categorical features are encoded using **LabelEncoder** and saved as `label_encoders.pkl`.
 
-## ⚙️ Installation (Run Locally)
-
-```bash
-git clone https://github.com/your-username/customer-churn-predictor.git
-cd customer-churn-predictor
-pip install -r requirements.txt
-python app.py
-````
+---
 
 
 ## 🌐 Deploy to Hugging Face Spaces
